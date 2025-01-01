@@ -84,7 +84,7 @@ The project includes several visualizations:
   - Logistic Regression
   - Decision Tree
 - **Training and Testing**:
-  - The data is split into training (80,2%), validation (19,8%), and testing (1%) sets.
+  - The data is split into training (79,2%), validation (19,8%), and testing (1%) sets.
 - **Hyperparameter Tuning**:
   - GridSearchCV is used for optimizing hyperparameters.
 
