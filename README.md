@@ -33,7 +33,7 @@ pip install -r requirements.txt
 The dataset contains Amazon product reviews with fields:
 - `Text`: The review content.
 - `Score`: The review rating (1 to 5).
-- `Sentiment`: Derived from the score (Positive for 4-5, Negative for 1-2).
+- `Sentiment`: Derived from the score (Positive for 4-5, Negative for 1-3).
 - `word_count`: The number of words in the review.
 
 ## File Structure
